@@ -11,3 +11,6 @@
 * KASM:  https://kasmweb.com/
 * Open Corporates:  https://opencorporates.com/
 * Epieos:  https://epieos.com/
+
+// Active recon
+[CAM PHISH](https://github.com/techchipnet/CamPhish?tab=readme-ov-file): a phishing tool designed to trick user to open his/ her camera
