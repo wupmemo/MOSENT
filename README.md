@@ -14,3 +14,6 @@
 
 // Active recon
 [CAM PHISH](https://github.com/techchipnet/CamPhish?tab=readme-ov-file): a phishing tool designed to trick user to open his/ her camera
+
+// OSINT Red Teaming Toolkit 
+https://github.com/infosecn1nja/Red-Teaming-Toolkit
