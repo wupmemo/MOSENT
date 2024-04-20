@@ -13,7 +13,10 @@
 * Epieos:  https://epieos.com/
 
 // Active recon
-[CAM PHISH](https://github.com/techchipnet/CamPhish?tab=readme-ov-file): a phishing tool designed to trick user to open his/ her camera
+[CAM PHISH](https://github.com/techchipnet/CamPhish?tab=readme-ov-file): a phishing tool designed to trick the user into opening his/ her camera
 
 // OSINT Red Teaming Toolkit 
 https://github.com/infosecn1nja/Red-Teaming-Toolkit
+
+// protect your website against IDN attacks
+https://github.com/urbanadventurer/urlcrazy
