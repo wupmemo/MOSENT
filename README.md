@@ -1,3 +1,9 @@
+# Red Team KIT
+// Tools we need for the Dark Arts
+https://github.com/lakinduakash/linux-wifi-hotspot
+
+
+
 # OSINT-KIT
 
 // 10 OSINT Tools //
