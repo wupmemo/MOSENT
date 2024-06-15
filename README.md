@@ -17,6 +17,8 @@ https://github.com/lakinduakash/linux-wifi-hotspot
 * KASM:  https://kasmweb.com/
 * Open Corporates:  https://opencorporates.com/
 * Epieos:  https://epieos.com/
+* Holehe OSINT: https://github.com/megadose/holehe
+* socialscan: https://github.com/iojw/socialscan
 
 // Active recon
 [CAM PHISH](https://github.com/techchipnet/CamPhish?tab=readme-ov-file): a phishing tool designed to trick the user into opening his/ her camera
