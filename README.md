@@ -28,3 +28,6 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
 // protect your website against IDN attacks
 https://github.com/urbanadventurer/urlcrazy
+
+// bypass HTTP 403 (Forbidden) pages
+https://github.com/trap-bytes/403jump
