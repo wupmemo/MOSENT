@@ -1,6 +1,6 @@
 # OSINT OFFENSIVE TOOLKIT GATHERED BY MO
-// Tools we need for the Dark Arts
-https://github.com/lakinduakash/linux-wifi-hotspot
+`Tools we need for the Dark Arts`
+- https://github.com/lakinduakash/linux-wifi-hotspot
 
 
 
