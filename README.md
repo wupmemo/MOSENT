@@ -31,3 +31,6 @@ https://github.com/urbanadventurer/urlcrazy
 
 // bypass HTTP 403 (Forbidden) pages
 https://github.com/trap-bytes/403jump
+
+// Tookie-Osint discovers all the user accounts across different websites and is successful at this task almost 80% of the time
+https://github.com/Alfredredbird/tookie-osint
