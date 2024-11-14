@@ -4,10 +4,10 @@
 
 
 
-# OSINT-KIT
-`10 OSINT Tools`
+# GATHERING INFO WITH OSINT
+`The main goal of all these tools is to collect as many information as we can about the target`
 
-- What’s my name Web:  https://whatsmyname.app/
+- [WHATISMYNAME](https://whatsmyname.app/) A tool that collects personal identity information based on usernames and social media handles
 - Web Archive:  https://web.archive.org/
 - Search By Image:  https://www.google.com/search?q=searc...
 - Obsidian:  https://obsidian.md/
