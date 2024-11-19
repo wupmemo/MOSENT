@@ -3,12 +3,31 @@
 - https://github.com/lakinduakash/linux-wifi-hotspot
 
 
-| Tool                                                | Effectivness | Usability |
+| Tool                                                | Descrription | Usability |
 | --------------------------------------------------- | ----------   | -------   |
+| [WHATISMYNAME](https://whatsmyname.app/)            | A tool that collects personal identity information based on usernames and social media handles         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
 | [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
 
 ## Tools:
-- [WHATISMYNAME](https://whatsmyname.app/) A tool that collects personal identity information based on usernames and social media handles
+- [WHATISMYNAME](https://whatsmyname.app/) 
 - Web Archive:  https://web.archive.org/
 - Search By Image:  https://www.google.com/search?q=searc...
 - Obsidian:  https://obsidian.md/
