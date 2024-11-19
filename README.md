@@ -3,6 +3,9 @@
 - https://github.com/lakinduakash/linux-wifi-hotspot
 
 
+| Tool                                                | Effectivness | Usability |
+| --------------------------------------------------- | ----------   | -------   |
+| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
 
 ## Tools:
 - [WHATISMYNAME](https://whatsmyname.app/) A tool that collects personal identity information based on usernames and social media handles
