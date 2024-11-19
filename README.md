@@ -4,7 +4,7 @@
 
 
 
-# Tools:
+## Tools:
 - [WHATISMYNAME](https://whatsmyname.app/) A tool that collects personal identity information based on usernames and social media handles
 - Web Archive:  https://web.archive.org/
 - Search By Image:  https://www.google.com/search?q=searc...
