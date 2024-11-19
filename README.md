@@ -3,36 +3,23 @@
 - https://github.com/lakinduakash/linux-wifi-hotspot
 
 
-| Tool                                                | Descrription | Usability |
+| Tool                                                | Descrription | Platform |
 | --------------------------------------------------- | ----------   | -------   |
-| [WHATISMYNAME](https://whatsmyname.app/)            | A tool that collects personal identity information based on usernames and social media handles         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
-| [WHATISMYNAME](https://whatsmyname.app/)            | High         | Low       |
+| [WHATISMYNAME](https://whatsmyname.app/)            | A tool that collects personal identity information based on usernames and social media handles         |    Website    |
+| [Web Archive](https://web.archive.org/)            |  ------ |  Website      |
+| [Obsidian Note Taker](https://obsidian.md/)            |  Excellent Note-taking tool |  Desktop/ Mobile App      |
+| [URLSCAN](https://urlscan.io)            |  A sandbox tool and scanner for all this malicious |  Website      |
+| [DND DUMPSTER](https://dnsdumpster.com)            |  DNS recon & research, find & lookup DNS records |  Website      |
+| []()            |  ------ |  Website      |
+| []()            |  ------ |  Website      |
+| []()            |  ------ |  Website      |
+
 
 ## Tools:
-- [WHATISMYNAME](https://whatsmyname.app/) 
-- Web Archive:  https://web.archive.org/
-- Search By Image:  https://www.google.com/search?q=searc...
-- Obsidian:  https://obsidian.md/
-- URL Scan:  https://urlscan.io
-- DNS Dumpster:  https://dnsdumpster.com
+
+- Obsidian:  
+- URL Scan:  
+- DNS Dumpster:  
 - Instant Data Scraper:  https://chromewebstore.google.com/det...
 - KASM:  https://kasmweb.com/
 - Open Corporates:  https://opencorporates.com/
