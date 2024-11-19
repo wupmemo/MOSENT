@@ -1,12 +1,10 @@
 # OSINT OFFENSIVE TOOLKIT GATHERED BY MO
-`Tools we need for the Dark Arts. MOSENT is a selection of Tools used to gether information about targets using the most effective Open Source Techniques`
+`Tools we need for the Dark Arts. MOSENT is a selection of Tools used to together information about targets using the most effective Open Source Techniques`
 - https://github.com/lakinduakash/linux-wifi-hotspot
 
 
 
-# GATHERING INFO WITH OSINT
-`The main goal of all these tools is to collect as much information as we can about the target.`
-
+# Tools:
 - [WHATISMYNAME](https://whatsmyname.app/) A tool that collects personal identity information based on usernames and social media handles
 - Web Archive:  https://web.archive.org/
 - Search By Image:  https://www.google.com/search?q=searc...
