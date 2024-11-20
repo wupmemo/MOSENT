@@ -1,6 +1,5 @@
 # OSINT OFFENSIVE TOOLKIT GATHERED BY MO
 `Tools we need for the Dark Arts. MOSENT is a selection of Tools used to together information about targets using the most effective Open Source Techniques and conduct offensive attacks based on the data collected.`
-- https://github.com/lakinduakash/linux-wifi-hotspot
 
 
 | Tool                                                | Descrription | Platform |
@@ -18,6 +17,6 @@
 | [403 JUMP](https://github.com/trap-bytes/403jump)            | bypass HTTP 403 (Forbidden) pages  |  Sctipt      |
 | [TOOKIE OSINT](https://github.com/Alfredredbird/tookie-osint)            |  Tookie-Osint discovers all the user accounts across different websites and is successful at this task almost 80% of the time |  Sctipt      |
 | [Deep-HLR](https://github.com/e-m3din4/deep-hlr)            |  This script uses the Defastra Deep Phone HLR Check API, aiming to be a tool in fraud prevention and osint research scenarios |  Script      |
-| []()            |  ------ |  -------      |
+| [Linux WIFI HOTSPOT](https://github.com/lakinduakash/linux-wifi-hotspot)            |  ------ |  Tool      |
 
 Thank you, come again!
