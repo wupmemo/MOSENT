@@ -17,6 +17,7 @@
 | [URL Crazy](https://github.com/urbanadventurer/urlcrazy)            | protect your website against IDN attacks  |  Sctipt      |
 | [403 JUMP](https://github.com/trap-bytes/403jump)            | bypass HTTP 403 (Forbidden) pages  |  Sctipt      |
 | [TOOKIE OSINT](https://github.com/Alfredredbird/tookie-osint)            |  Tookie-Osint discovers all the user accounts across different websites and is successful at this task almost 80% of the time |  Sctipt      |
-
+| [Deep-HLR](https://github.com/e-m3din4/deep-hlr)            |  This script uses the Defastra Deep Phone HLR Check API, aiming to be a tool in fraud prevention and osint research scenarios |  Script      |
+| []()            |  ------ |  -------      |
 
 Thank you, come again!
