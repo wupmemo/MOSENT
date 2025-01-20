@@ -1,4 +1,4 @@
-# OSINT OFFENSIVE TOOLKIT GATHERED BY MO
+# OSINT TOOLKIT BY MO
 `Tools we need for the Dark Arts. MOSENT is a selection of Tools used to together information about targets using the most effective Open Source Techniques and conduct offensive attacks based on the data collected.`
 
 
