@@ -1,5 +1,8 @@
+![image](https://github.com/user-attachments/assets/dd075b7d-8e5a-4995-8c01-cf4df0660cc9)
+
 # OSINT TOOLKIT BY MO
-`Tools we need for the Dark Arts. MOSENT is a selection of Tools used to together information about targets using the most effective Open Source Techniques and conduct offensive attacks based on the data collected.`
+Tools we need for the Dark Arts. MOSENT is a selection of Tools used to together information about targets using the most effective Open Source Techniques and conduct offensive attacks based on the data collected.
+
 
 
 | Tool                                                | Descrription | Platform |
